@@ -3,7 +3,7 @@
     "name": "TT",
     "slug": "ZeroTEB",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/logoImg/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
